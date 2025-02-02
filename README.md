@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td><code>adicionarAmigos()</code></td>
-    <td>Adiciona um nome à lista o exibe na tela.</td>
+    <td>Adiciona um nome à lista e o exibe na tela.</td>
   </tr>
   <tr>
     <td><code>atualizarLista()</code></td>

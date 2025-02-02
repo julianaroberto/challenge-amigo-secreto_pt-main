@@ -4,6 +4,8 @@
 
 <p>O desafio foi feito no curso Oracle one - Next Education, parceria da Alura com a Oracle. O <em>challenge</em> tem como objetivo praticar o que foi visto nos cursos de lógica de programação, utilizando <strong>JavaScript.</strong></p>
 
+<p>A aplicação feita permite aos usuários inserir nomes de amigos em uma lista para, posteriormente, realizar um sorteio aleatório e determinar quem é o amigo secreto.</p>
+
 
 <h2> 💻 Tecnologias </h2>
 

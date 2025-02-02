@@ -13,6 +13,26 @@
 4. Sortear um nome aleatório da lista.
 </p>
 
+<table>
+  <tr>
+    <th>Function</th>
+    <th>Saída</th>
+  </tr>
+  <tr>
+    <td><code>adicionarAmigos()</code></td>
+    <td>Adiciona um nome à lista o exibe na tela.</td>
+  </tr>
+  <tr>
+    <td><code>atualizarLista()</code></td>
+    <td>Atualiza a exibição da lista.</td>
+  </tr>
+  <tr>
+    <td><code>sortearAmigo()</code></td>
+    <td>Seleciona um nome aleatório e o exibe na tela.</td>
+  </tr>
+</table>
+
+
 <h2> 💻 Tecnologias </h2>
 
 <div style="display: inline_block" align="left"><br>
